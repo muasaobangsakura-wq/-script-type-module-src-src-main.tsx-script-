@@ -1,0 +1,10 @@
+{
+  "name": "Remix English Fun Learning AI",
+  "description": "Ứng dụng học tiếng Anh tiểu học bằng AI và trò chơi tương tác với cổng đăng nhập riêng biệt cho học sinh và giáo viên.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
